@@ -12,3 +12,7 @@ Step 2 : * Now, Make a Pull from github on repository cloned at second location
 
 Step 3 : * Download all Day 2 programs of Mathematical Operator IWProblems
 				 * Now Make a push of Day 2 programs from repository at second location.
+
+     Make a push in the below format
+JS-101_Learning_Javascript/Introduction_to_Javascript
+JS-101_Learning_Javascript/Mathematical_Operator

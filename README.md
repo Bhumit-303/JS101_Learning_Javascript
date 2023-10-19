@@ -1,4 +1,6 @@
 # JS101_Learning_Javascript
+NODE ->    Assignment-1 contains Introduction_to_Javascript
+           Assignment-2 contains Mathematical_Operator
 Creating a new repo in git hub 2. and cloning the repository in two different locations in the desktop.
 Pushing all IW assignments in an alternate way from two cloned
 repository on Github.
